@@ -1,0 +1,27 @@
+body{
+    position: relative;
+    border: 1px;
+}
+h1{
+    text-align: center;
+}
+.nice{
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 160%;
+}
+.date{
+    padding-left: 80%;
+}
+em{
+    color: blue;
+}
+p{
+    text-size-adjust: 12px;
+}
+.tab{
+    margin-left: 4em;
+}
+.footer{
+    padding-left: 20%; 
+}
